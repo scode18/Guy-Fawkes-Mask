@@ -1,5 +1,5 @@
 body {
-	background-image: url(../img/pattern.png);
+	background-image: url(../img/wallpaper.jpg);
 }
 
 p {
@@ -7,7 +7,7 @@ p {
 }
 
 button {
-  background-color: black;
+  background-image: url(../img/button.jpg);
   width: 600px;
   height: 500px;
   margin: 15px;
