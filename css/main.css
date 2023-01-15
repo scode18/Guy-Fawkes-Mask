@@ -1,0 +1,18 @@
+body {
+	background-image: url(../img/pattern.png);
+}
+
+p {
+  color: white;
+}
+
+button {
+  background-color: black;
+  width: 600px;
+  height: 500px;
+  margin: 15px;
+}
+
+a {
+  color: green;
+}
